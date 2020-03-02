@@ -55,7 +55,7 @@
 - Textos de singular originalidade
 - Poesia pessimista - angústia existencial
 - Simbolismo e cientificismo naturalista
-- Poesia sinerética (soma de visões diferenciadas) (não sei se eu copiei a palavra certa, mas essa aí parece existir)
+- Poesia sincrética (soma de visões diferenciadas) (não sei se eu copiei a palavra certa, mas essa aí parece existir)
 - Vocabulário e temas agressivos e chocantes
 - Visão angustiante da matéria, vida e cosmos
 - Descrença na vida e no pós-vida
