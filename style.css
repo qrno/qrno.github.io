@@ -9,7 +9,7 @@ h1 {
 
 table {
   border-collapse: separate;
-  border-spacing: 0.4rem;
+  border-spacing: 0.3rem;
   font-size: 38;
 }
 
@@ -17,8 +17,8 @@ td, th {
   text-align: center;
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
+  padding-right: 1.3rem;
+  padding-left: 1.3rem;
 }
 
 td {
