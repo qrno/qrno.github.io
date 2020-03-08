@@ -9,13 +9,16 @@ h1 {
 
 table {
   border-collapse: separate;
-  border-spacing: 0.3rem;
-  font-size: 50px;
+  border-spacing: 0.4rem;
+  font-size: 40;
 }
 
 td, th {
-  text-align: left;
-  padding: 0.5rem;
+  text-align: center;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
 }
 
 td {
